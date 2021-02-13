@@ -1,7 +1,7 @@
 {
   "name": "Ciamis Flasher",
   "short_name": "CiamisFlasher",
-  "start_url": "https://www.ciamisflasher.com/?m=1",
+  "start_url": "https://www.ciamisflasher.com",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#333",
